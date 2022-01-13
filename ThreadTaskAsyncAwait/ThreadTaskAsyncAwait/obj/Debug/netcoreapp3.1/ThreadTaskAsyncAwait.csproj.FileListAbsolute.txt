@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\bin\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.exe
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\bin\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.deps.json
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\bin\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.runtimeconfig.json
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\bin\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\bin\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.dll
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\bin\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.pdb
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.AssemblyInfo.cs
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.dll
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.pdb
+C:\Users\memme\Desktop\P224\Task\ThreadTaskAsyncAwait\ThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\ThreadTaskAsyncAwait.genruntimeconfig.cache

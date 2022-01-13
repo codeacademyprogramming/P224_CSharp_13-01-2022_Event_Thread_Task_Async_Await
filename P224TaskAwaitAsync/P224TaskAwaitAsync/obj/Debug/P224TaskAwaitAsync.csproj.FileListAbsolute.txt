@@ -1,0 +1,10 @@
+C:\Users\memme\Desktop\P224\Task\P224TaskAwaitAsync\P224TaskAwaitAsync\bin\Debug\P224TaskAwaitAsync.exe.config
+C:\Users\memme\Desktop\P224\Task\P224TaskAwaitAsync\P224TaskAwaitAsync\bin\Debug\P224TaskAwaitAsync.exe
+C:\Users\memme\Desktop\P224\Task\P224TaskAwaitAsync\P224TaskAwaitAsync\bin\Debug\P224TaskAwaitAsync.pdb
+C:\Users\memme\Desktop\P224\Task\P224TaskAwaitAsync\P224TaskAwaitAsync\obj\Debug\P224TaskAwaitAsync.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P224\Task\P224TaskAwaitAsync\P224TaskAwaitAsync\obj\Debug\P224TaskAwaitAsync.Form1.resources
+C:\Users\memme\Desktop\P224\Task\P224TaskAwaitAsync\P224TaskAwaitAsync\obj\Debug\P224TaskAwaitAsync.Properties.Resources.resources
+C:\Users\memme\Desktop\P224\Task\P224TaskAwaitAsync\P224TaskAwaitAsync\obj\Debug\P224TaskAwaitAsync.csproj.GenerateResource.cache
+C:\Users\memme\Desktop\P224\Task\P224TaskAwaitAsync\P224TaskAwaitAsync\obj\Debug\P224TaskAwaitAsync.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224TaskAwaitAsync\P224TaskAwaitAsync\obj\Debug\P224TaskAwaitAsync.exe
+C:\Users\memme\Desktop\P224\Task\P224TaskAwaitAsync\P224TaskAwaitAsync\obj\Debug\P224TaskAwaitAsync.pdb

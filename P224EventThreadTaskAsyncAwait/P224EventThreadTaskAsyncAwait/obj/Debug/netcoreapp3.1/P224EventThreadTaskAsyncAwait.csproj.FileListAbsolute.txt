@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\bin\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.exe
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\bin\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.deps.json
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\bin\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.runtimeconfig.json
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\bin\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\bin\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.dll
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\bin\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.pdb
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.AssemblyInfo.cs
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.dll
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.pdb
+C:\Users\memme\Desktop\P224\Task\P224EventThreadTaskAsyncAwait\P224EventThreadTaskAsyncAwait\obj\Debug\netcoreapp3.1\P224EventThreadTaskAsyncAwait.genruntimeconfig.cache
